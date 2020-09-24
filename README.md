@@ -7,6 +7,10 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+进入mock
+node app
+
+进入node
 npm run serve
 ```
 
